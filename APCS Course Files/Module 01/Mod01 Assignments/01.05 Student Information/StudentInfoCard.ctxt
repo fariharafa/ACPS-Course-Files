@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfoCard
+comment0.text=\r\nThe\ purpose\ of\ the\ StudentInfoCard\ is\ to\ display\ a\ student's\ \r\ninformation\ on\ the\ screen\r\n\r\n\ @author\ Fariha\ Rafa\r\n\ @version\ September\ 28,\ 2018\r\n
+comment1.params=arge
+comment1.target=void\ main(java.lang.String[])
+numComments=2
